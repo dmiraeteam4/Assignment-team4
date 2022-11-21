@@ -75,10 +75,30 @@ State는 컴포넌트 내부에서 선언하며 내부에서 값을 변경할 �
 
 ### 📝 텐서플로란?
 
-**텐서플로(TensorFlow)** 또는 텐서플로우는 다양한 작업에대해 데이터 흐름 프로그래밍을 위한 오픈소스 소프트웨어 라이브러리이다. 기본적으로 C++로 구현 되어 있으며, 아래의 그림과 같이 Python, Java, Go 등 다양한 언어를 지원한다. 하지만, 파이썬을 최우선으로 지원 브라우저에서 실행가능한 시각화 도우인 텐서보드(TensorBoard)를 제공하여, 딥러닝 학습 과정을 추적하는데 유용하게 사용된다.
+**텐서플로(TensorFlow)** 또는 텐서플로우는 다양한 작업에대해 데이터 흐름 프로그래밍을 위한 오픈소스 소프트웨어 라이브러리이다. 기본적으로 C++로 구현 되어 있으며, 아래의 그림과 같이 Python, Java, Go 등 다양한 언어를 지원한다. 하지만, 파이썬을 최우선으로 지원 브라우저에서 실행가능한 시각화 도구인 텐서보드(TensorBoard)를 제공하여, 딥러닝 학습 과정을 추적하는데 유용하게 사용된다.
 
 ![image](https://user-images.githubusercontent.com/114379800/203028264-b973ebe1-a96a-4e9d-b99a-1a1ab4bb7312.png)
 
+딥러닝에서 데이터를 의미하는 **Tensor** 와 데이터 플로 그래프를 따라 연산이 수행되는 형태를 합처 **TensorFlow** 라고 하는 것이다. 
 
 
 
+## 5. 파이토치 (pythorch)
+
+### 🔥 파이토치란?
+
+파이토치란 2016년에 발표된 딥러닝을 구현을 위한 파이썬 기반의 오픈소스 머신러닝 라이브러리이다.  facebook  인공지능 연구팀에 의해 개발되었으며, Define by Run의 딥러닝 구현 패러다임이 특징이다. 텐서플로 보다 쉽게 간결하고 빠른 구현가능
+
+![image](https://user-images.githubusercontent.com/114379800/203030250-5b292d18-cc23-4fae-99d3-ff42269a3725.png)
+
+
+###### *Define and Run는코드를 직접 돌리는 환경인 세션을 만들고, placeholder를 선언하고 이것으로 계산 그래프를 만들고(Define), 코드를 실행하는 시점에 데이터를 넣어 실행하는(Run) 방식
+
+
+## ✔ 참고문헌
+
+* <https://velog.io/@soryeongk/LinuxBasic>
+* <https://www.44bits.io/ko/keyword/visual-studio-code>
+* <https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A3%BC%EC%96%BC_%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_%EC%BD%94%EB%93%9C>
+* <https://velog.io/@jini_eun/React-React.js%EB%9E%80-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC>
+* <https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=os2dr&logNo=221565409684>
