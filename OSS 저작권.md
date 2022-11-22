@@ -29,7 +29,7 @@ Work, excluding those notices that do not pertain to any part of the Derivative 
 
 > **라이선스 정보의 제공**
 
-이용자들이 오픈소스에 관한 권리를 잘 이해할 수 있도록 배포자가 라이선스의 사본 첨부 요구
+이용자들이 오픈소스에 관한 권리를 잘 이해할 수 있도록 배포자가 라이선스의 사본 첨부
 ```
 <Apache License 2.0>
 1. You must give any other recipients of the Work or Derivative Works a copy of this License.
@@ -39,3 +39,28 @@ Work, excluding those notices that do not pertain to any part of the Derivative 
 
 라이선스에 따라 큰 차이를 보임. ***GPL***(FSF가 말하는 "소프트웨어의 자유"를 지키기 위한 구체적인 수단)을 대표로 하는 카피레프트 라이선스들은 이용자들이 소프트웨어를 수정한 후 배포하고자 할 때 
 수정된 소프트웨어에도 동일한 라이선스로 배포할 것을 요구함
+
+```
+<GPL 2.0>
+ 
+2. You may modify your copy or copies of the Program or any portion of it, thus forming
+a work based on the Program, and copy and distribute such modifications or work under
+the terms of Section 1 above, provided that you also meet all of these conditions:
+ b) You must cause any work that you distribute or publish, that in whole or in part
+contains or is derived from the Program or any part thereof, to be licensed as a whole
+at no charge to all third parties under the terms of this License.
+```
+
+> **소스코드의 제공**  
+
+카피레프트 조항을 포함하는 라이선스의 경우, 소스코드 함께 배포
+
+```
+예) GPL 2.0
+ 
+3. You may copy and distribute the Program (or a work based on it, under Section 2) in
+object code or executable form under the terms of Sections 1 and 2 above provided that
+you also do one of the following:
+ a) Accompany it with the complete corresponding machine-readable source code,
+ ```
+ 
