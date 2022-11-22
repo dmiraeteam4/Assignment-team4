@@ -17,8 +17,9 @@
 4. c. You must retain, in the Source form of any Derivative Works that You distribute,
 all copyright, patent, trademark, and attribution notices from the Source form of the
 Work, excluding those notices that do not pertain to any part of the Derivative Works;
-```
-
+```  
+  
+  
 > **코드를 수정한 경우 수정한 정보의 표시**  
 
 수정한 사람, 수정 일자 등 수정에 관한 내용을 포함하도록 함 (원본과 구별)
@@ -35,7 +36,7 @@ Work, excluding those notices that do not pertain to any part of the Derivative 
 1. You must give any other recipients of the Work or Derivative Works a copy of this License.
 ```
 
-> **동일한 라이선스로 재배포할 것 (copyleft)**  
+> **동일한 라이선스로 재배포할 것** ***(copyleft)***  
 
 라이선스에 따라 큰 차이를 보임. ***GPL***(FSF가 말하는 "소프트웨어의 자유"를 지키기 위한 구체적인 수단)을 대표로 하는 카피레프트 라이선스들은 이용자들이 소프트웨어를 수정한 후 배포하고자 할 때 
 수정된 소프트웨어에도 동일한 라이선스로 배포할 것을 요구함
