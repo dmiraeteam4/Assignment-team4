@@ -67,6 +67,50 @@ you also do one of the following:
  
 ### 2. 확인 방법
 
-> **소스 코드 파일 상단 주석 확인**  
+> **1) 소스 코드 파일 상단 주석 확인**  
 
 ![image](https://user-images.githubusercontent.com/114379800/203342242-908b1c0a-5ab6-4442-8c53-6626db19d0d7.png)
+
+> **2) root 폴더 내 LICENSE (혹은 COPYING) 파일 확인**
+
+> **3) README 또는 웹사이트에서 확인**
+
+## 💡 주요 라이선스  
+
+## 1. Berkeley Software Distribution(BSD) License
+
++ *버클리 대학* 에서 만든 라이선스로 공공기관에서 만들어낸 것이기에 공공의 몫으로 돌려주자는 의미가 강해서 라이선스 자체에는 아무런 ***제한 없이 누구나 자신의 용도로 사용*** 할 수 있도록 만들어졌다. 
++ **라이선스 및 저작권 표시** 조건 외에 굉장히 자유로운 라이선스 중 하나이다.
+
+![image]("https://user-images.githubusercontent.com/114379800/203363937-05108906-d6bd-4516-a5b6-ac49e50e85dd.png", heigt=70)
+
+## 2. Apache License
+
++ *아파치 소프트웨어 재단*  자체적으로 만든 라이선스이다. 
++ 소스코드에 대한 공개 의무 등의 의무사항은 없다.
++ 하지만 아파치 ***라이선스의 소스코드를 수정*** 하여 배포하는 경우 수정사항에 대한 고지(수정일, 수정내용 등)를 포함해야 한다.
+
+![image](https://user-images.githubusercontent.com/114379800/203364165-12bdc099-9185-4fa1-bd56-4ead7a171283.png)
+
+## 3. GNU General Public License(GPL)
+
++ *자유 소프트웨어 재단(Free Software Foundation, FSF)* 에서 만든 라이선스로 GNU 프로젝트로 배포하는 소프트웨어에 적용하기 위하여 리처드 스톨먼(Richard Stallman)이 만든 라이선스이다. 
++ 가장 강한 제약 조건을 포함하고 있는 ***카피레포트 조항과 소스코드 제공 의무*** 를 가지고 있다.  
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/220px-GPLv3_Logo.svg.png)
+
+## 4. GNU Lesser GPL(LGPL)
+
++ 주로 라이브러리에 사용하기 위해 *FSF* 가 GPL과는 별도로 만든 라이선스이다. 
++ 단순히 소프트웨어를 사용하기만 하더라도 해당 소스코드를 GPL로 공개해야 하는 부담감이 있는데 그것을 줄여주기 위해서 ***라이브러리 자체를 수정***한 경우에는 ***카피레포트 조항***을 적용
++ ***응용프로그램***은 ***카피레포트 조항 적용 x, 소스코드 제공 의무도 없다.***  
+
+![image](https://user-images.githubusercontent.com/114379800/203363715-c0d31fee-d294-42a6-9b00-5b4f41bfb7dd.png)
+
+## 5. Mozilla Public License(MPL)
+
++ *넷스케이프사*가 자사의 브라우저를 오픈소스로 배포하면서 만든 라이선스이다. 
++ 소스코드와 실행파일의 저작권을 분리함으로써 ***사용한 MPL 소프트웨어와 수정한 MPL 소프트웨어***에는 ***카피레포트 조항***을 적용
++ 실행파일은 독점 라이선스를 가질 수 있다.
+
+![image](https://user-images.githubusercontent.com/114379800/203364450-62d98974-fd84-4382-9095-5ddb49eb535a.png)
