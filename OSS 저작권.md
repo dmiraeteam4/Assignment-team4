@@ -114,3 +114,12 @@ you also do one of the following:
 > + 실행파일은 독점 라이선스를 가질 수 있다.
 
 ![image](https://user-images.githubusercontent.com/114379800/203364450-62d98974-fd84-4382-9095-5ddb49eb535a.png)
+
+## 참고문헌
++ <https://www.fnnews.com/news/201811281705502816>
++ <https://www.olis.or.kr/license/licenseGuide.do>
++ <https://sktelecom.github.io/guide/use/license/>
++ <https://naver.github.io/OpenSourceGuide/book/UsingOss/the-legal-side-of-opensource.html>
++ <https://www.oss.kr/oss_license>
++ <https://codenamu.org/2014/10/10/popular-opensource-license>
+
