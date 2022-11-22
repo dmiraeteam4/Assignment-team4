@@ -49,7 +49,7 @@
 일반적으로 오픈소스를 수정한 프로그램은 사용료 없이 배포할 것을 요구하고 있습니다. 따라서 기업이 보유한 특허를 소스코드에 포함시켜 재배포하려는 경우, 반드시 명확한 입장을 밝히고 오픈소스 저작권자의 정책을 고려해야 합니다.
 
 
-### 참고문헌 
+## 참고문헌 
 
-<http://server-engineer.tistory.com/141>
-<https://www.redhat.com/ko/topics/open-source/what-is-open-source-software>
++ <http://server-engineer.tistory.com/141>
++ <https://www.redhat.com/ko/topics/open-source/what-is-open-source-software>
