@@ -65,3 +65,8 @@ you also do one of the following:
  a) Accompany it with the complete corresponding machine-readable source code,
  ```
  
+### 2. 확인 방법
+
+> **소스 코드 파일 상단 주석 확인**  
+
+![image](https://user-images.githubusercontent.com/114379800/203342242-908b1c0a-5ab6-4442-8c53-6626db19d0d7.png)
