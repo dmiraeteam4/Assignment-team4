@@ -34,4 +34,4 @@ OSI 단체가 정한 오픈소스 소프트웨어의 기준 OSD(Open Source Defi
 위와 같은 역사를 거쳐 이제 오픈소스 소프트웨어는 소프트웨어의 한 축을 잡게 됐다.
 
 ## 참고문헌
-<https://www.nepla.net/post/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9D%98-%EC%97%AD%EC%82%AC>
++ <https://www.nepla.net/post/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9D%98-%EC%97%AD%EC%82%AC>
