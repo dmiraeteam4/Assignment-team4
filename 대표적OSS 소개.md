@@ -4,6 +4,9 @@
 
 ### 1) 📖 리눅스란?
 
+![image](https://user-images.githubusercontent.com/114379800/204150030-e828de7d-a874-4f87-9026-a6be5adf83eb.png)
+
+
 1991년 9월 17일 **리누스 토르발스** 가 처음 출시한 운영 체제 커널인 리눅스 커널에 기반을 둔 오픈 소스 유닉스 계열 운영 체제 계열이다. 
 리눅스는 **유닉스(Unix)** 라는 운영체제를 기반으로 하고 있으며, 뛰어난 안정성과 보안성, 높은 신뢰성과 성능이 특징이다.  
   현재 다양한 사용자가 사용 할 수 있는 멀티 유저(multi-user)와 멀티 태스킹(multi-tasking)을 지원하고 있다.
@@ -30,6 +33,10 @@
 
 ### 1) 📖 VSCODE란?
 
+![image](https://user-images.githubusercontent.com/114379800/204150115-f2388494-12aa-4a1e-af02-682385d4c447.png)
+
+
+
 **비주얼 스튜디오 코드(영어: Visual Studio Code)**  또는 코드는 마이크로소프트가 마이크로소프트 윈도우, macOS, 리눅스용으로 개발한 소스 코드 편집기이다.  깃허브의 일렉트론(Electron) 을 기반으로 만들어져 맥OSmacOS, 리눅스Linux, 윈도우Windows 등 메이저 운영체제를 모두 지원하고 있다.
 
 ###### * 일렉트론 : 청자오(Cheng Zhao)가 개발한 오픈 소스 프레임워크의 하나
@@ -44,6 +51,9 @@
 ## 3. 리액트 (React)
 
 ### 1) 🐱‍🚀 리액트란?
+
+
+<img src="https://user-images.githubusercontent.com/114379800/204150129-1a183215-457c-444b-9d62-869e5580f78c.png" height="400"/>
 
 React는 웹 프레임워크로, 자바스크립트 라이브러리의 하나로서 사용자 인터페이스를 만들기 위해 사용되며 웹/앱의 View를 개발할 수 있도록 하는 인기있는 라이브러리이다.
 
@@ -71,7 +81,7 @@ React는 웹 프레임워크로, 자바스크립트 라이브러리의 하나로
 
 **텐서플로(TensorFlow)** 또는 텐서플로우는 다양한 작업에대해 데이터 흐름 프로그래밍을 위한 오픈소스 소프트웨어 라이브러리이다. 기본적으로 C++로 구현 되어 있으며, 아래의 그림과 같이 Python, Java, Go 등 다양한 언어를 지원한다. 하지만, 파이썬을 최우선으로 지원 브라우저에서 실행가능한 시각화 도구인 텐서보드(TensorBoard)를 제공하여, 딥러닝 학습 과정을 추적하는데 유용하게 사용된다.
 
-<img src="https://user-images.githubusercontent.com/114379800/203028264-b973ebe1-a96a-4e9d-b99a-1a1ab4bb7312.png" height="400"/>
+<img src="https://user-images.githubusercontent.com/114379800/203028264-b973ebe1-a96a-4e9d-b99a-1a1ab4bb7312.png" height="300"/>
 
 딥러닝에서 데이터를 의미하는 **Tensor** 와 데이터 플로 그래프를 따라 연산이 수행되는 형태를 합처 **TensorFlow** 라고 하는 것이다. 
 
